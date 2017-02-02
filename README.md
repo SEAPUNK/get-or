@@ -1,6 +1,8 @@
 try-get
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/try-get.svg)](https://greenkeeper.io/)
+
 Gets a value of an object, giving provided default if not possible.
 
 ```js
